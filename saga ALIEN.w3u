@@ -1,0 +1,88 @@
+{"name": "ALIEN",
+"image": "https://pics.filmaffinity.com/alien-657278575-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN.w3u",
+"info": "bY Virgin Mary",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	{
+	"name": "Alien, El Octavo Pasajero",
+        "image": "https://pics.filmaffinity.com/alien-657278575-large.jpg",
+        "url": "https://byseraguci.com/d/sork1mm8sul7/alien-el-octavo-pasajero",
+       	"info": "[Español 1979]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Alien, El Regreso",
+        "image": "https://pics.filmaffinity.com/aliens-989223912-large.jpg",
+        "url": "https://byseraguci.com/d/dbvpwtigy9rt/aliens-el-regreso",
+       	"info": "[Español 1986]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Alien 3",
+        "image": "https://pics.filmaffinity.com/alien3-521432773-large.jpg",
+        "url": "https://byseraguci.com/d/o53xx6np0usr/alien-3",
+       	"info": "[Español 1992]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Alien, Resurreccion",
+        "image": "https://pics.filmaffinity.com/alien_resurrection-257654592-large.jpg",
+        "url": "https://byseraguci.com/d/4qrq4urevqza/alien-resurrecci%C3%B3n",
+       	"info": "[Español 1997]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Alien, Prometheus",
+        "image": "https://pics.filmaffinity.com/prometheus-664289547-large.jpg",
+        "url": "https://byseraguci.com/d/mutdp2x7sz8n/alien-prometheus",
+       	"info": "[Español 2012]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Alien, Covenant",
+        "image": "https://pics.filmaffinity.com/alien_covenant-271063602-large.jpg",
+        "url": "https://byseraguci.com/d/1ztb42il9res/alien-covenant",
+       	"info": "[Español 2017]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Alien, Romulus",
+        "image": "https://pics.filmaffinity.com/alien_romulus-177464034-large.jpg",
+        "url": "https://byseraguci.com/d/y35q5qg1g1cs/alien-romulus",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
